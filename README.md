@@ -27,6 +27,8 @@ Repositorio para armazenar resumos que eu n irei fazer :)
 | git add . | mesmo que o de cima só que adiciona todos os arquivos untracked |
 | git commit -m "<mesagem>" | leva os arquivos da area de staging para a area do local repository(area anterior ao remote repository)|
 | git log | mostra os commits |
+| git restore <nome aqrquivo> | descarta todas as alterações feitas no arquivo no workspace para o estado do ultimo commit ⚠️CUIDADO|
+| git commit --amend -m "<novo nome>" | renomeia o nome do ultimo commit|
 
 ## 😎 Funcionamento do git (não sei um nome melhor 🐯)
 
