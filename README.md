@@ -35,8 +35,16 @@ Repositorio para armazenar resumos que eu n irei fazer :)
 | git reset <caminho(se tiver)/nome do arquivo> | remove da area de staging, voltando para o workspace |
 | git restore --stage <caminho(se tiver)/nome do arquivo> | mesmo do de cima |
 | git push -u origin <branch name> | envia os arquivos e commits da branch para o repositorio remoto |
-| git pull | atualiza o repositorio local mesclando com o repositorio remoto(que explicacao bosta 🐯)
+| git pull | atualiza o repositorio local mesclando com o repositorio remoto(que explicacao bosta 🐯) |
+| git checkout <nome da branch> | muda de branch |
+| git checkout -b <nome da branch> | cria uma nova branch e muda para ela |
+| git branch | mostra as branches|
+| git branch -v | o de cima mais o commit que cada uma aponta |
+| git branch -d <nome da branch> | apaga a brnach escolhida |
+| git merge <nome da branch> | mescla as branches |
+| git fetch | pega as alterações do repo remoto | 
 
 ## 😎 Funcionamento do git (não sei um nome melhor 🐯)
 
 ![Era pra ter uma imagem foda aqui 🫤](images/git.png)
+![Era pra ter uma imagem foda aqui 🫤](images/branch.png)
