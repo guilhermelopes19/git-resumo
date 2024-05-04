@@ -29,6 +29,10 @@ Repositorio para armazenar resumos que eu n irei fazer :)
 | git log | mostra os commits |
 | git restore <nome aqrquivo> | descarta todas as alterações feitas no arquivo no workspace para o estado do ultimo commit ⚠️CUIDADO|
 | git commit --amend -m "<novo nome>" | renomeia o nome do ultimo commit|
+| git reset --soft <hash do commit> | apaga os commits posteriores ao commit selecionado e envia as alterações deles para a área de staging |
+| git reset --mixed <hash do commit> | apaga os commits posteriores ao commit selecionado e envia as alterações deles para a área de workspace |
+| git reset --hard | apaga os commits posteriores ao commit selecionado e, obviamente, defaz as alterações |
+
 
 ## 😎 Funcionamento do git (não sei um nome melhor 🐯)
 
