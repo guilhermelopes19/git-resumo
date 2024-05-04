@@ -32,7 +32,9 @@ Repositorio para armazenar resumos que eu n irei fazer :)
 | git reset --soft <hash do commit> | apaga os commits posteriores ao commit selecionado e envia as alterações deles para a área de staging |
 | git reset --mixed <hash do commit> | apaga os commits posteriores ao commit selecionado e envia as alterações deles para a área de workspace |
 | git reset --hard | apaga os commits posteriores ao commit selecionado e, obviamente, defaz as alterações |
-
+| git reset <caminho(se tiver)/nome do arquivo> | remove da area de staging, voltando para o workspace |
+| git restore --stage <caminho(se tiver)/nome do arquivo> | mesmo do de cima |
+| git push -u origin <branch name> | envia os arquivos e commits da branch para o repositorio remoto |
 
 ## 😎 Funcionamento do git (não sei um nome melhor 🐯)
 
