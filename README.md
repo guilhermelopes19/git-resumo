@@ -38,4 +38,4 @@ Repositorio para armazenar resumos que eu n irei fazer :)
 
 ## 😎 Funcionamento do git (não sei um nome melhor 🐯)
 
-![Era pra ter uma imagem foda aqui 🫤]()
+![Era pra ter uma imagem foda aqui 🫤](images/git.png)
