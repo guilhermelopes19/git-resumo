@@ -1,4 +1,4 @@
-# DIO | Resumos Git e Github
+# Resumos Git e Github
 
 Repositorio para armazenar resumos que eu n irei fazer :)
 
